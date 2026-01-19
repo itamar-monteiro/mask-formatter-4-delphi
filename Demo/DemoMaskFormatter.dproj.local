@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/01/02 10:20:50.000.494,=D:\ProjectFolder\Unit5.pas</Transaction>
+    <Transaction>2026/01/03 18:07:18.000.021,=D:\ProjectFolder\Unit5.pas</Transaction>
+    <Transaction>2026/01/08 17:12:57.000.850,=D:\ProjectFolder\Unit5.pas</Transaction>
+    <Transaction>2026/01/08 19:06:00.000.083,=D:\ProjectFolder\Unit5.pas</Transaction>
+    <Transaction>2026/01/09 08:48:12.000.959,=D:\ProjectFolder\Unit5.pas</Transaction>
+    <Transaction>2026/01/18 16:05:20.000.613,=D:\ProjectFolder\Unit5.pas</Transaction>
+    <Transaction>2026/01/18 16:06:08.000.886,D:\ProjectFolder\Unit5.dfm=D:\Meus_Componentes_Delphi\MaskFormatter\Demo\uFrmDemo.dfm</Transaction>
+    <Transaction>2026/01/18 16:06:08.000.886,D:\ProjectFolder\Unit5.pas=D:\Meus_Componentes_Delphi\MaskFormatter\Demo\uFrmDemo.pas</Transaction>
+    <Transaction>2026/01/18 16:06:23.000.510,D:\ProjectFolder\Project2.dproj=D:\Meus_Componentes_Delphi\MaskFormatter\Demo\DemoMaskFormatter.dproj</Transaction>
+    <Transaction>2026/01/18 16:07:10.000.463,=D:\Meus_Componentes_Delphi\MaskFormatter\Demo\Unit1.pas</Transaction>
+    <Transaction>2026/01/18 16:11:44.000.898,D:\Meus_Componentes_Delphi\MaskFormatter\Demo\Unit1.pas=D:\Meus_Componentes_Delphi\MaskFormatter\Helpers\MaskFormatter.Helpers.pas</Transaction>
+    <Transaction>2026/01/18 16:14:47.000.732,=D:\Meus_Componentes_Delphi\MaskFormatter\Demo\Unit1.pas</Transaction>
+    <Transaction>2026/01/18 16:15:50.000.007,D:\Meus_Componentes_Delphi\MaskFormatter\Demo\Unit1.pas=D:\Meus_Componentes_Delphi\MaskFormatter\Attributes\MaskFormatter.Attributes.CPFCNPJ.pas</Transaction>
+    <Transaction>2026/01/18 16:16:23.000.414,D:\Meus_Componentes_Delphi\MaskFormatter\Attributes\MaskFormatter.Attributes.CPFCNPJ.pas=D:\Meus_Componentes_Delphi\MaskFormatter\Attributes\MaskFormatter.Attributes.BaseAttribute.pas</Transaction>
+    <Transaction>2026/01/18 16:16:53.000.369,=D:\Meus_Componentes_Delphi\MaskFormatter\Demo\Unit1.pas</Transaction>
+    <Transaction>2026/01/18 16:17:04.000.871,D:\Meus_Componentes_Delphi\MaskFormatter\Demo\Unit1.pas=D:\Meus_Componentes_Delphi\MaskFormatter\Attributes\MaskFormatter.Attributes.CPFCNPJ.pas</Transaction>
+    <Transaction>2026/01/18 16:19:13.000.157,=D:\Meus_Componentes_Delphi\MaskFormatter\Demo\Unit1.pas</Transaction>
+    <Transaction>2026/01/18 16:19:59.000.130,D:\Meus_Componentes_Delphi\MaskFormatter\Demo\Unit1.pas=D:\Meus_Componentes_Delphi\MaskFormatter\Attributes\MaskFormatter.Attributes.pas</Transaction>
+    <Transaction>2026/01/18 16:20:55.000.967,=D:\Meus_Componentes_Delphi\MaskFormatter\Demo\Unit1.pas</Transaction>
+    <Transaction>2026/01/18 16:29:20.000.226,D:\Meus_Componentes_Delphi\MaskFormatter\Demo\Unit1.pas=D:\Meus_Componentes_Delphi\MaskFormatter\Core\MaskFormatter.Core.pas</Transaction>
+    <Transaction>2026/01/18 17:08:20.000.174,D:\Meus_Componentes_Delphi\MaskFormatter\Attributes\MaskFormatter.Attributes.BaseAttribute.pas=</Transaction>
+    <Transaction>2026/01/18 17:10:27.000.132,D:\Meus_Componentes_Delphi\MaskFormatter\Attributes\MaskFormatter.Attributes.CPFCNPJ.pas=D:\Meus_Componentes_Delphi\MaskFormatter\Attributes\MaskFormatter.Attributes.MaskFormat.pas</Transaction>
+    <Transaction>2026/01/18 18:12:02.000.218,=D:\Meus_Componentes_Delphi\MaskFormatter\Demo\Unit1.pas</Transaction>
+    <Transaction>2026/01/18 18:12:26.000.958,D:\Meus_Componentes_Delphi\MaskFormatter\Demo\Unit1.pas=D:\Meus_Componentes_Delphi\MaskFormatter\Core\MaskFormatter.Types.pas</Transaction>
+  </Transactions>
+</BorlandProject>
